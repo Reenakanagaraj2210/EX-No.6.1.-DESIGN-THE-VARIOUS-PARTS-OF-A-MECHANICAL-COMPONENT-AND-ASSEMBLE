@@ -48,22 +48,26 @@ If the components do not fit properly into the slots, it can be moved into the s
 ## INPUT: 
 
 #### LINKAGE
-![image](https://user-images.githubusercontent.com/113594316/199413513-8fa5b9db-0546-49d0-ad4c-230b22984d3c.png)
+![Screenshot 2024-12-23 105357](https://github.com/user-attachments/assets/a5d986a2-87fe-4ce5-94e2-0f0542a995b2)
 
 #### BASE PLATE  
-![image](https://user-images.githubusercontent.com/113594316/199413545-3b2fd515-6e27-4d28-9da3-c9ce20cb2a42.png)
+![Screenshot 2024-12-23 105439](https://github.com/user-attachments/assets/16a7b113-8d8b-419c-9c93-610c996f25ed)
 
 #### GEAR LINKAGE
-![image](https://user-images.githubusercontent.com/113594316/199413566-05708531-fc78-44c9-ab98-4f8a9066d318.png)
+![Screenshot 2024-12-23 105508](https://github.com/user-attachments/assets/b3cfef49-0434-4dac-a9a2-31a62d1dbef4)
 
 #### FINGER
-![image](https://user-images.githubusercontent.com/113594316/199413594-5de9578e-5800-4e69-8c76-6a5749e31805.png)
+![Screenshot 2024-12-23 105532](https://github.com/user-attachments/assets/a442ab1e-8863-4166-ae4f-a3ca4970f597)
 
 #### ASSEMBLED VIEW
-![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
+![Screenshot 2024-12-23 105608](https://github.com/user-attachments/assets/85de1f3a-ccca-4c5f-a0f2-26a0acba7435)
 
 ## OUTPUT:
-![edm 6 1](https://github.com/user-attachments/assets/f100739c-6be9-4830-92b3-6268076b3e25)
+![Screenshot 2024-12-23 105357](https://github.com/user-attachments/assets/a5d986a2-87fe-4ce5-94e2-0f0542a995b2)
+![Screenshot 2024-12-23 105439](https://github.com/user-attachments/assets/16a7b113-8d8b-419c-9c93-610c996f25ed)
+![Screenshot 2024-12-23 105532](https://github.com/user-attachments/assets/a442ab1e-8863-4166-ae4f-a3ca4970f597)
+![Screenshot 2024-12-23 105608](https://github.com/user-attachments/assets/85de1f3a-ccca-4c5f-a0f2-26a0acba7435)
+![Screenshot 2024-12-23 105608](https://github.com/user-attachments/assets/85de1f3a-ccca-4c5f-a0f2-26a0acba7435)
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
